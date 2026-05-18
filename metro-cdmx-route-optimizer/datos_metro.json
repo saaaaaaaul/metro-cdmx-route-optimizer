@@ -1,0 +1,1054 @@
+{
+    "estaciones": [
+        "Pantitlan",
+        "Zaragoza",
+        "Gomez Farias",
+        "Boulevard Puerto Aereo",
+        "Balbuena",
+        "Moctezuma",
+        "San Lazaro",
+        "Candelaria",
+        "Merced",
+        "Pino Suarez",
+        "Isabel la Catolica",
+        "Salto del Agua",
+        "Cuauhtemoc",
+        "Insurgentes",
+        "Sevilla",
+        "Chapultepec",
+        "Juanacatlan",
+        "Tacubaya",
+        "Observatorio",
+        "Cuatro Caminos",
+        "Panteones",
+        "Tacuba",
+        "Cuitlahuac",
+        "Popotla",
+        "Colegio Militar",
+        "Normal",
+        "San Cosme",
+        "Revolucion",
+        "Hidalgo",
+        "Bellas Artes",
+        "Allende",
+        "Zocalo",
+        "San Antonio Abad",
+        "Chabacano",
+        "Viaducto",
+        "Xola",
+        "Villa de Cortes",
+        "Nativitas",
+        "Portales",
+        "Ermita",
+        "General Anaya",
+        "Tasque\u00f1a",
+        "Indios Verdes",
+        "Deportivo 18 de Marzo",
+        "Potrero",
+        "La Raza",
+        "Tlatelolco",
+        "Guerrero",
+        "Juarez",
+        "Balderas",
+        "Ni\u00f1os Heroes",
+        "Hospital General",
+        "Centro Medico",
+        "Etiopia",
+        "Eugenia",
+        "Division del Norte",
+        "Zapata",
+        "Coyoacan",
+        "Viveros",
+        "Miguel Angel de Quevedo",
+        "Copilco",
+        "Universidad",
+        "Martin Carrera",
+        "Talisman",
+        "Bondojito",
+        "Consulado",
+        "Canal del Norte",
+        "Morelos",
+        "Fray Servando",
+        "Jamaica",
+        "Santa Anita",
+        "Politecnico",
+        "Instituto del Petroleo",
+        "Autobuses del Norte",
+        "Misterios",
+        "Valle Gomez",
+        "Oceania",
+        "Terminal Aerea",
+        "Hangares",
+        "El Rosario",
+        "Tezozomoc",
+        "Azcapotzalco",
+        "Ferreria",
+        "Norte 45",
+        "Vallejo",
+        "Lindavista",
+        "La Villa-Basilica",
+        "Aquiles Serdan",
+        "Camarones",
+        "Refineria",
+        "San Joaquin",
+        "Polanco",
+        "Auditorio",
+        "Constituyentes",
+        "Sn Pedro de los Pinos",
+        "San Antonio",
+        "Mixcoac",
+        "Barranca del Muerto",
+        "Garibaldi",
+        "San Juan de Letran",
+        "Doctores",
+        "Obrera",
+        "La Viga",
+        "Coyuya",
+        "Iztacalco",
+        "Apatlaco",
+        "Aculco",
+        "Escuadron 201",
+        "Atlalilco",
+        "Iztapalapa",
+        "Cerro de la Estrella",
+        "UAM-I",
+        "Constitucion de 1917",
+        "Patriotismo",
+        "Chilpancingo",
+        "Lazaro Cardenas",
+        "Mixiuhca",
+        "Velodromo",
+        "Ciudad Deportiva",
+        "Puebla",
+        "Agricola Oriental",
+        "Canal de San Juan",
+        "Tepalcates",
+        "Guelatao",
+        "Pe\u00f1on Viejo",
+        "Acatitla",
+        "Santa Marta",
+        "Los Reyes",
+        "La Paz",
+        "Buenavista",
+        "Lagunilla",
+        "Tepito",
+        "Ricardo Flores Magon",
+        "Romero Rubio",
+        "Deportivo Oceania",
+        "Impulsora",
+        "Nezahualcoyotl",
+        "Muzquiz",
+        "Ecatepec",
+        "Olimpica",
+        "Plaza Aragon",
+        "Ciudad Azteca",
+        "Insurgentes Sur",
+        "Hospital 20 de Noviembre",
+        "Parque de los Venados",
+        "Eje Central",
+        "Mexicaltzingo",
+        "Culhuacan",
+        "San Andres Tomatlan",
+        "Lomas Estrella",
+        "Calle 11",
+        "Periferico Oriente",
+        "Tezonco",
+        "Olivos",
+        "Nopalera",
+        "Zapotitlan",
+        "Tlaltenco",
+        "Tlahuac"
+    ],
+    "conexiones": [
+        [
+            "Pantitlan",
+            "Zaragoza",
+            3
+        ],
+        [
+            "Zaragoza",
+            "Gomez Farias",
+            5
+        ],
+        [
+            "Gomez Farias",
+            "Boulevard Puerto Aereo",
+            8
+        ],
+        [
+            "Boulevard Puerto Aereo",
+            "Balbuena",
+            2
+        ],
+        [
+            "Balbuena",
+            "Moctezuma",
+            6
+        ],
+        [
+            "Moctezuma",
+            "San Lazaro",
+            4
+        ],
+        [
+            "San Lazaro",
+            "Candelaria",
+            9
+        ],
+        [
+            "Candelaria",
+            "Merced",
+            1
+        ],
+        [
+            "Merced",
+            "Pino Suarez",
+            7
+        ],
+        [
+            "Pino Suarez",
+            "Isabel la Catolica",
+            3
+        ],
+        [
+            "Isabel la Catolica",
+            "Salto del Agua",
+            5
+        ],
+        [
+            "Salto del Agua",
+            "Balderas",
+            2
+        ],
+        [
+            "Balderas",
+            "Cuauhtemoc",
+            6
+        ],
+        [
+            "Cuauhtemoc",
+            "Insurgentes",
+            10
+        ],
+        [
+            "Insurgentes",
+            "Sevilla",
+            4
+        ],
+        [
+            "Sevilla",
+            "Chapultepec",
+            8
+        ],
+        [
+            "Chapultepec",
+            "Juanacatlan",
+            1
+        ],
+        [
+            "Juanacatlan",
+            "Tacubaya",
+            7
+        ],
+        [
+            "Tacubaya",
+            "Observatorio",
+            9
+        ],
+        [
+            "Cuatro Caminos",
+            "Panteones",
+            4
+        ],
+        [
+            "Panteones",
+            "Tacuba",
+            6
+        ],
+        [
+            "Tacuba",
+            "Cuitlahuac",
+            2
+        ],
+        [
+            "Cuitlahuac",
+            "Popotla",
+            8
+        ],
+        [
+            "Popotla",
+            "Colegio Militar",
+            5
+        ],
+        [
+            "Colegio Militar",
+            "Normal",
+            3
+        ],
+        [
+            "Normal",
+            "San Cosme",
+            7
+        ],
+        [
+            "San Cosme",
+            "Revolucion",
+            1
+        ],
+        [
+            "Revolucion",
+            "Hidalgo",
+            9
+        ],
+        [
+            "Hidalgo",
+            "Bellas Artes",
+            4
+        ],
+        [
+            "Bellas Artes",
+            "Allende",
+            2
+        ],
+        [
+            "Allende",
+            "Zocalo",
+            6
+        ],
+        [
+            "Zocalo",
+            "Pino Suarez",
+            10
+        ],
+        [
+            "Pino Suarez",
+            "San Antonio Abad",
+            3
+        ],
+        [
+            "San Antonio Abad",
+            "Chabacano",
+            5
+        ],
+        [
+            "Chabacano",
+            "Viaducto",
+            8
+        ],
+        [
+            "Viaducto",
+            "Xola",
+            1
+        ],
+        [
+            "Xola",
+            "Villa de Cortes",
+            7
+        ],
+        [
+            "Villa de Cortes",
+            "Nativitas",
+            4
+        ],
+        [
+            "Nativitas",
+            "Portales",
+            9
+        ],
+        [
+            "Portales",
+            "Ermita",
+            2
+        ],
+        [
+            "Ermita",
+            "General Anaya",
+            6
+        ],
+        [
+            "General Anaya",
+            "Tasque\u00f1a",
+            5
+        ],
+        [
+            "Indios Verdes",
+            "Deportivo 18 de Marzo",
+            3
+        ],
+        [
+            "Deportivo 18 de Marzo",
+            "Potrero",
+            4
+        ],
+        [
+            "Potrero",
+            "La Raza",
+            7
+        ],
+        [
+            "La Raza",
+            "Tlatelolco",
+            3
+        ],
+        [
+            "Tlatelolco",
+            "Guerrero",
+            8
+        ],
+        [
+            "Guerrero",
+            "Hidalgo",
+            2
+        ],
+        [
+            "Hidalgo",
+            "Juarez",
+            6
+        ],
+        [
+            "Juarez",
+            "Balderas",
+            5
+        ],
+        [
+            "Balderas",
+            "Ni\u00f1os Heroes",
+            9
+        ],
+        [
+            "Ni\u00f1os Heroes",
+            "Hospital General",
+            1
+        ],
+        [
+            "Hospital General",
+            "Centro Medico",
+            7
+        ],
+        [
+            "Centro Medico",
+            "Etiopia",
+            4
+        ],
+        [
+            "Etiopia",
+            "Eugenia",
+            10
+        ],
+        [
+            "Eugenia",
+            "Division del Norte",
+            2
+        ],
+        [
+            "Division del Norte",
+            "Zapata",
+            8
+        ],
+        [
+            "Zapata",
+            "Coyoacan",
+            3
+        ],
+        [
+            "Coyoacan",
+            "Viveros",
+            6
+        ],
+        [
+            "Viveros",
+            "Miguel Angel de Quevedo",
+            1
+        ],
+        [
+            "Miguel Angel de Quevedo",
+            "Copilco",
+            9
+        ],
+        [
+            "Copilco",
+            "Universidad",
+            4
+        ],
+        [
+            "Martin Carrera",
+            "Talisman",
+            5
+        ],
+        [
+            "Talisman",
+            "Bondojito",
+            2
+        ],
+        [
+            "Bondojito",
+            "Consulado",
+            7
+        ],
+        [
+            "Consulado",
+            "Canal del Norte",
+            4
+        ],
+        [
+            "Canal del Norte",
+            "Morelos",
+            9
+        ],
+        [
+            "Morelos",
+            "Candelaria",
+            1
+        ],
+        [
+            "Candelaria",
+            "Fray Servando",
+            6
+        ],
+        [
+            "Fray Servando",
+            "Jamaica",
+            3
+        ],
+        [
+            "Jamaica",
+            "Santa Anita",
+            8
+        ],
+        [
+            "Politecnico",
+            "Instituto del Petroleo",
+            1
+        ],
+        [
+            "Instituto del Petroleo",
+            "Autobuses del Norte",
+            9
+        ],
+        [
+            "Autobuses del Norte",
+            "La Raza",
+            4
+        ],
+        [
+            "La Raza",
+            "Misterios",
+            7
+        ],
+        [
+            "Misterios",
+            "Valle Gomez",
+            2
+        ],
+        [
+            "Valle Gomez",
+            "Consulado",
+            5
+        ],
+        [
+            "Consulado",
+            "Oceania",
+            8
+        ],
+        [
+            "Oceania",
+            "Terminal Aerea",
+            3
+        ],
+        [
+            "Terminal Aerea",
+            "Hangares",
+            6
+        ],
+        [
+            "Hangares",
+            "Pantitlan",
+            10
+        ],
+        [
+            "El Rosario",
+            "Tezozomoc",
+            2
+        ],
+        [
+            "Tezozomoc",
+            "Azcapotzalco",
+            8
+        ],
+        [
+            "Azcapotzalco",
+            "Ferreria",
+            4
+        ],
+        [
+            "Ferreria",
+            "Norte 45",
+            7
+        ],
+        [
+            "Norte 45",
+            "Vallejo",
+            1
+        ],
+        [
+            "Vallejo",
+            "Instituto del Petroleo",
+            5
+        ],
+        [
+            "Instituto del Petroleo",
+            "Lindavista",
+            9
+        ],
+        [
+            "Lindavista",
+            "Deportivo 18 de Marzo",
+            5
+        ],
+        [
+            "Deportivo 18 de Marzo",
+            "La Villa-Basilica",
+            3
+        ],
+        [
+            "La Villa-Basilica",
+            "Martin Carrera",
+            6
+        ],
+        [
+            "El Rosario",
+            "Aquiles Serdan",
+            6
+        ],
+        [
+            "Aquiles Serdan",
+            "Camarones",
+            10
+        ],
+        [
+            "Camarones",
+            "Refineria",
+            3
+        ],
+        [
+            "Refineria",
+            "Tacuba",
+            5
+        ],
+        [
+            "Tacuba",
+            "San Joaquin",
+            1
+        ],
+        [
+            "San Joaquin",
+            "Polanco",
+            9
+        ],
+        [
+            "Polanco",
+            "Auditorio",
+            4
+        ],
+        [
+            "Auditorio",
+            "Constituyentes",
+            7
+        ],
+        [
+            "Constituyentes",
+            "Tacubaya",
+            2
+        ],
+        [
+            "Tacubaya",
+            "Sn Pedro de los Pinos",
+            8
+        ],
+        [
+            "Sn Pedro de los Pinos",
+            "San Antonio",
+            6
+        ],
+        [
+            "San Antonio",
+            "Mixcoac",
+            3
+        ],
+        [
+            "Mixcoac",
+            "Barranca del Muerto",
+            5
+        ],
+        [
+            "Garibaldi",
+            "Bellas Artes",
+            4
+        ],
+        [
+            "Bellas Artes",
+            "San Juan de Letran",
+            7
+        ],
+        [
+            "San Juan de Letran",
+            "Salto del Agua",
+            3
+        ],
+        [
+            "Salto del Agua",
+            "Doctores",
+            2
+        ],
+        [
+            "Doctores",
+            "Obrera",
+            9
+        ],
+        [
+            "Obrera",
+            "Chabacano",
+            5
+        ],
+        [
+            "Chabacano",
+            "La Viga",
+            1
+        ],
+        [
+            "La Viga",
+            "Santa Anita",
+            6
+        ],
+        [
+            "Santa Anita",
+            "Coyuya",
+            10
+        ],
+        [
+            "Coyuya",
+            "Iztacalco",
+            3
+        ],
+        [
+            "Iztacalco",
+            "Apatlaco",
+            8
+        ],
+        [
+            "Apatlaco",
+            "Aculco",
+            4
+        ],
+        [
+            "Aculco",
+            "Escuadron 201",
+            7
+        ],
+        [
+            "Escuadron 201",
+            "Atlalilco",
+            2
+        ],
+        [
+            "Atlalilco",
+            "Iztapalapa",
+            5
+        ],
+        [
+            "Iztapalapa",
+            "Cerro de la Estrella",
+            9
+        ],
+        [
+            "Cerro de la Estrella",
+            "UAM-I",
+            1
+        ],
+        [
+            "UAM-I",
+            "Constitucion de 1917",
+            6
+        ],
+        [
+            "Tacubaya",
+            "Patriotismo",
+            3
+        ],
+        [
+            "Patriotismo",
+            "Chilpancingo",
+            8
+        ],
+        [
+            "Chilpancingo",
+            "Centro Medico",
+            4
+        ],
+        [
+            "Centro Medico",
+            "Lazaro Cardenas",
+            7
+        ],
+        [
+            "Lazaro Cardenas",
+            "Chabacano",
+            2
+        ],
+        [
+            "Chabacano",
+            "Jamaica",
+            9
+        ],
+        [
+            "Jamaica",
+            "Mixiuhca",
+            5
+        ],
+        [
+            "Mixiuhca",
+            "Velodromo",
+            1
+        ],
+        [
+            "Velodromo",
+            "Ciudad Deportiva",
+            6
+        ],
+        [
+            "Ciudad Deportiva",
+            "Puebla",
+            10
+        ],
+        [
+            "Puebla",
+            "Pantitlan",
+            4
+        ],
+        [
+            "Pantitlan",
+            "Agricola Oriental",
+            7
+        ],
+        [
+            "Agricola Oriental",
+            "Canal de San Juan",
+            2
+        ],
+        [
+            "Canal de San Juan",
+            "Tepalcates",
+            5
+        ],
+        [
+            "Tepalcates",
+            "Guelatao",
+            9
+        ],
+        [
+            "Guelatao",
+            "Pe\u00f1on Viejo",
+            3
+        ],
+        [
+            "Pe\u00f1on Viejo",
+            "Acatitla",
+            8
+        ],
+        [
+            "Acatitla",
+            "Santa Marta",
+            4
+        ],
+        [
+            "Santa Marta",
+            "Los Reyes",
+            1
+        ],
+        [
+            "Los Reyes",
+            "La Paz",
+            6
+        ],
+        [
+            "Buenavista",
+            "Guerrero",
+            5
+        ],
+        [
+            "Guerrero",
+            "Garibaldi",
+            2
+        ],
+        [
+            "Garibaldi",
+            "Lagunilla",
+            8
+        ],
+        [
+            "Lagunilla",
+            "Tepito",
+            4
+        ],
+        [
+            "Tepito",
+            "Morelos",
+            7
+        ],
+        [
+            "Morelos",
+            "San Lazaro",
+            1
+        ],
+        [
+            "San Lazaro",
+            "Ricardo Flores Magon",
+            9
+        ],
+        [
+            "Ricardo Flores Magon",
+            "Romero Rubio",
+            3
+        ],
+        [
+            "Romero Rubio",
+            "Oceania",
+            6
+        ],
+        [
+            "Oceania",
+            "Deportivo Oceania",
+            10
+        ],
+        [
+            "Deportivo Oceania",
+            "Impulsora",
+            2
+        ],
+        [
+            "Impulsora",
+            "Nezahualcoyotl",
+            5
+        ],
+        [
+            "Nezahualcoyotl",
+            "Muzquiz",
+            8
+        ],
+        [
+            "Muzquiz",
+            "Ecatepec",
+            4
+        ],
+        [
+            "Ecatepec",
+            "Olimpica",
+            7
+        ],
+        [
+            "Olimpica",
+            "Plaza Aragon",
+            1
+        ],
+        [
+            "Plaza Aragon",
+            "Ciudad Azteca",
+            6
+        ],
+        [
+            "Mixcoac",
+            "Insurgentes Sur",
+            4
+        ],
+        [
+            "Insurgentes Sur",
+            "Hospital 20 de Noviembre",
+            7
+        ],
+        [
+            "Hospital 20 de Noviembre",
+            "Zapata",
+            3
+        ],
+        [
+            "Zapata",
+            "Parque de los Venados",
+            9
+        ],
+        [
+            "Parque de los Venados",
+            "Eje Central",
+            2
+        ],
+        [
+            "Eje Central",
+            "Ermita",
+            6
+        ],
+        [
+            "Ermita",
+            "Mexicaltzingo",
+            10
+        ],
+        [
+            "Mexicaltzingo",
+            "Atlalilco",
+            5
+        ],
+        [
+            "Atlalilco",
+            "Culhuacan",
+            1
+        ],
+        [
+            "Culhuacan",
+            "San Andres Tomatlan",
+            8
+        ],
+        [
+            "San Andres Tomatlan",
+            "Lomas Estrella",
+            4
+        ],
+        [
+            "Lomas Estrella",
+            "Calle 11",
+            7
+        ],
+        [
+            "Calle 11",
+            "Periferico Oriente",
+            3
+        ],
+        [
+            "Periferico Oriente",
+            "Tezonco",
+            9
+        ],
+        [
+            "Tezonco",
+            "Olivos",
+            2
+        ],
+        [
+            "Olivos",
+            "Nopalera",
+            6
+        ],
+        [
+            "Nopalera",
+            "Zapotitlan",
+            10
+        ],
+        [
+            "Zapotitlan",
+            "Tlaltenco",
+            5
+        ],
+        [
+            "Tlaltenco",
+            "Tlahuac",
+            1
+        ]
+    ]
+}
